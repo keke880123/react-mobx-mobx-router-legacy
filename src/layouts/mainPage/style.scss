@@ -1,0 +1,19 @@
+.container-mainPage {
+    border: 1px solid blue;
+    padding: 0 30px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .user-name {
+        padding: 5px 0;
+    }
+    .tab-box {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid green;
+    }
+}
